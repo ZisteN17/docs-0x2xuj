@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-zl1do8.jambul126.xyz/sitemap.xml
